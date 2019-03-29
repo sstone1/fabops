@@ -1,0 +1,17 @@
+{
+  "name": "channel-creator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fabric-ca-client": "^2.0.0-snapshot.249",
+    "fabric-client": "^2.0.0-snapshot.248",
+    "fabric-protos": "^2.0.0-snapshot.100",
+    "fs-extra": "^7.0.1"
+  }
+}
